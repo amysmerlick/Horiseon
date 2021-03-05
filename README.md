@@ -4,7 +4,7 @@
 Horiseon Social Soultion Services, a marketing agency, has hired me to refract an exisiting code so that it meets accessibility standards. In order for the site to be optimized I will have to consolidate elements on the web page and add additional attributes to improve the flow of the webpage. The modifications that are made to the code do not change how the page is displayed but will optimize search engine. 
 
 ## Screenshot
-![Horiseon Social Solution Services (2)](https://user-images.githubusercontent.com/77814900/110156578-25b36b00-7db5-11eb-9dfa-1e81cf0abe43.png)
+![Horiseon Social Solution Services](https://user-images.githubusercontent.com/77814900/110166202-053ddd80-7dc2-11eb-8695-d30d17022879.png)
 
 ## **Tasks Commpleted**
 
