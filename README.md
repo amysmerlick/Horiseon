@@ -46,9 +46,8 @@ Horiseon Social Soultion Services, a marketing agency, has hired me to refract a
 
 
 ## Repository
-[Amy Smerlick GitHub](https://amysmerlick.github.io/Horiseon/)
+[Amy Smerlick GitHub Repository](https://amysmerlick.github.io/Horiseon/)
 
-[HoriseonLink](http://127.0.0.1:5500/index.html)
+[Horiseon Social Soultion Services](http://127.0.0.1:5501/Horiseon/index.html)
 
-[GitHub](https://amysmerlick.github.io/Horiseon/)
 
