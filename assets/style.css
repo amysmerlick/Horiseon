@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+
 }
 
 body {
@@ -99,12 +100,12 @@ p {
 /* combined all 3 codes using commas*/
 
 div .benefits {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
     color: #ffffff;
 }
 
 .benefitlbc {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
     color: #ffffff;
 }
 /*combined benefitlbc to one*/
