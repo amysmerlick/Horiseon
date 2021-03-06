@@ -2,7 +2,7 @@
 
 ***
 # ***Introduction***
-Horiseon Social Solution Services, a marketing agency, has hired me to refact an exisiting code so that it meets accessibility standards. In order for the site to be optimized I will have to consolidate elements on the web page and add additional attributes to improve the flow of the webpage. The modifications that are made to the code do not change how the page is displayed but will optimize search engine.
+Horiseon Social Solution Services, a marketing agency, has hired me to refactor an existing code so that it meets accessibility standards. In order for the site to be optimized I will have to consolidate elements on the web page and add additional attributes to improve the flow of the webpage. The modifications that are made to the code do not change how the page is displayed but will optimize search engine functionality.
 ***
 ## Table of Contents
 
@@ -37,7 +37,7 @@ Open index.html in Chrome
 
 *Grouped section classes in order to consolidate CSS
 
-*Consolidated repetitive css 
+*Consolidated repetitive CSS 
 
 *Corrected the CSS .header style codes to correlate changes made to the added HTML semantic elements 
 
@@ -59,10 +59,10 @@ Open index.html in Chrome
 
 
 ### Links
-This project has been delpoyed and is live on GitHub. Click the links below.
+This project has been deployed and is live on GitHub. Click the links below.
 ***
 [Amy Smerlick GitHub Repository](https://github.com/amysmerlick/Horiseon.git)
 
-[Horiseon Social Soultion Services](https://amysmerlick.github.io/Horiseon/)
+[Horiseon Social Solution Services](https://amysmerlick.github.io/Horiseon/)
 
 
