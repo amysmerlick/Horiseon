@@ -5,11 +5,10 @@
 Horiseon Social Solution Services, a marketing agency, has hired me to refact an exisiting code so that it meets accessibility standards. In order for the site to be optimized I will have to consolidate elements on the web page and add additional attributes to improve the flow of the webpage. The modifications that are made to the code do not change how the page is displayed but will optimize search engine. 
 ***
 ## Table of Contents
-1. [Screenshot](##Screenshot)
-2. [Tasks Completed](##Completed)
-3. [Credits](##Credits)
-4. [Links](##Links)
-***
+1. [Screenshot](#Screenshot)
+2. [Tasks Completed](#Completed)
+3. [Credits](#Credits)
+4. [Links](#Links)
 
 ## Screenshot
 ![Horiseon Social Solution Services](https://user-images.githubusercontent.com/77814900/110166202-053ddd80-7dc2-11eb-8695-d30d17022879.png)
