@@ -2,7 +2,7 @@
 
 ***
 # ***Introduction***
-Horiseon Social Solution Services, a marketing agency, has hired me to refact an exisiting code so that it meets accessibility standards. In order for the site to be optimized I will have to consolidate elements on the web page and add additional attributes to improve the flow of the webpage. The modifications that are made to the code do not change how the page is displayed but will optimize search engine. 
+Horiseon Social Solution Services, a marketing agency, has hired me to refact an exisiting code so that it meets accessibility standards. In order for the site to be optimized I will have to consolidate elements on the web page and add additional attributes to improve the flow of the webpage. The modifications that are made to the code do not change how the page is displayed but will optimize search engine.
 ***
 ## Table of Contents
 1. [Screenshot](#Screenshot)
@@ -53,8 +53,10 @@ Horiseon Social Solution Services, a marketing agency, has hired me to refact an
 
 
 ## Links
-[Amy Smerlick GitHub Repository](https://amysmerlick.github.io/Horiseon/)
+This project has been delpoyed and is live on GitHub. Click the links below.
+***
+[Amy Smerlick GitHub Repository](https://github.com/amysmerlick/Horiseon.git)
 
-[Horiseon Social Soultion Services](http://127.0.0.1:5501/Horiseon/index.html)
+[Horiseon Social Soultion Services](https://amysmerlick.github.io/Horiseon/)
 
 
