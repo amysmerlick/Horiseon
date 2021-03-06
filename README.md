@@ -15,8 +15,7 @@ Horiseon Social Solution Services, a marketing agency, has hired me to refactor 
 
 ***
 ### __Installation__
-
-
+***
 
 Open index.html in Chrome
 
