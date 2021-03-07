@@ -71,7 +71,7 @@ This project has been deployed and is live on GitHub. Click the links below.
 
 [Amy Smerlick GitHub Repository](https://github.com/amysmerlick/Horiseon.git)
 
-[Horiseon Social Solution Services](https://amysmerlick.github.io/Horiseon/)
+[Horiseon Social Solution Services Website](https://amysmerlick.github.io/Horiseon/)
 
 ***
 ### __License__
