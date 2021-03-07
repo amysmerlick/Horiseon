@@ -12,6 +12,7 @@ Horiseon Social Solution Services, a marketing agency, has hired me to refactor 
 3. [Tasks Completed](#Completed)
 4. [Credits](#Credits)
 5. [Links](#Links)
+6. [License](#License)
 
 ***
 ### __Installation__
@@ -65,7 +66,6 @@ Open index.html in Chrome
 
 ***
 ### __Links__
-
 ***
 This project has been deployed and is live on GitHub. Click the links below.
 
@@ -73,4 +73,14 @@ This project has been deployed and is live on GitHub. Click the links below.
 
 [Horiseon Social Solution Services](https://amysmerlick.github.io/Horiseon/)
 
+***
+### __License__
+***
+The MIT License (MIT)
+Copyright © 2021 AmySmerlick
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
